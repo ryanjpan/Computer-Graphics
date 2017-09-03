@@ -1,6 +1,4 @@
 ﻿Ryan Pan
-998254573
-rjppan@ucdavis.edu
 
 
 There is a Makefile, run make, the executable is named "hw2".
