@@ -1,0 +1,6 @@
+test/
+**/Debug
+*.VC.db
+*.vcx*
+*.sdf
+*.sln
